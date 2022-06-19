@@ -1,3 +1,4 @@
+//Program to learn basic odd even logic
 import java.util.Scanner;
 
 public class ArrayEvensum {
